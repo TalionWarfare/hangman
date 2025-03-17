@@ -7,7 +7,7 @@ that has engaging pop culture words ranging from Simpsons, Star Wars, Lord Of Th
 HOW TO PLAY:
 Extract the ZIP file
 Compile the C program:
-gcc hangman.c -o hangman
+gcc main.c -o hangman
 ENSURE words.txt is in the same directory or else the game won't work
 YOU may run the game using:
 hangman.exe (ON WINDOWS)
